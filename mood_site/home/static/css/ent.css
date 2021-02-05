@@ -1,0 +1,18 @@
+body {
+    background-image: url("/static/img/B6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  .container-left {
+    border: 2px solid white;
+    border-radius: 5px;
+    /*padding: 16px;
+    position: absolute;
+    left: 0;
+    margin-top: 10%;
+    margin-left: 10%;*/
+    float: left;
+    background-color: rgba(241, 240, 240, 0.7);
+  }

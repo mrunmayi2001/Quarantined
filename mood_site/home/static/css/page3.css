@@ -1,0 +1,12 @@
+body {
+  background-image: url("/static/img/B4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  color: white;
+  padding-top: 10%;
+  margin-left: 25%;
+}
